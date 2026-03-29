@@ -1,5 +1,10 @@
 # Agentic RAG with Adaptive Chunking
 
+## Team
+### Vishnu Narayanan Vinodkumar - 2022BCS0001
+### R J Hari - 2022BCS0125
+### Nandana Dinesh Nair - 2022BCS0005
+
 ## Overview
 This project improves Retrieval-Augmented Generation (RAG) for long documents by combining adaptive chunking, efficient retrieval, and agent-based orchestration for more accurate and grounded responses.
 
