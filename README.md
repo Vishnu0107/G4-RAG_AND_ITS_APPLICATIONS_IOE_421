@@ -35,7 +35,7 @@ This project improves Retrieval-Augmented Generation (RAG) for long documents by
 ---
 
 ## Dataset
-- :contentReference[oaicite:0]{index=0}  
+- CNN Dailymail Dataset 
   https://huggingface.co/datasets/abisee/cnn_dailymail
 
 ---
