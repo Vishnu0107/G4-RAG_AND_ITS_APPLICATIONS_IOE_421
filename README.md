@@ -93,5 +93,5 @@ Benchmarks conducted using 200 test samples
 - Pydantic AI Agents  
   https://ai.pydantic.dev/agent/  
 
-- :contentReference[oaicite:0]{index=0}  
+- CNN Daily Mail Dataset 
   https://huggingface.co/datasets/abisee/cnn_dailymail  
