@@ -68,3 +68,30 @@ This project improves Retrieval-Augmented Generation (RAG) for long documents by
 <img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/cff73c67-d40f-4b75-ae83-3075567d49c7" />
 
 Benchmarks conducted using 200 test samples
+
+## References
+- Lewis et al., *Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks*, 2020  
+  https://arxiv.org/abs/2005.11401  
+
+- Vaswani et al., *Attention Is All You Need*, 2017  
+
+- FAISS: A Library for Efficient Similarity Search  
+  https://engineering.fb.com/2017/03/29/data-infrastructure/faiss-a-library-for-efficient-similarity-search/  
+
+- Adaptive Chunking for RAG  
+  https://arxiv.org/pdf/2603.25333  
+
+- Agentic RAG (A-RAG)  
+  https://arxiv.org/pdf/2602.03442  
+
+- CrewAI (Multi-Agent Framework)  
+  https://www.crewai.com/  
+
+- OpenClaw (Agent Framework)  
+  https://openclaw.ai/  
+
+- Pydantic AI Agents  
+  https://ai.pydantic.dev/agent/  
+
+- :contentReference[oaicite:0]{index=0}  
+  https://huggingface.co/datasets/abisee/cnn_dailymail  
